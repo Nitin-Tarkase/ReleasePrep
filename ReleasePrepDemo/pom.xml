@@ -2,10 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mvn.releaseprep</groupId>
   <artifactId>ReleasePrepDemo</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <scm>
   	<connection>scm:git:https://github.com/Nitin-Tarkase/ReleasePrep.git</connection>
-    <tag>ReleasePrepDemo-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <build>
   <plugins>
